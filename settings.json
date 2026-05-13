@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "innocentkeyboar-GRbf.aternos.me:64593",
+    "ip": "innocentkeyboar-GRbf.aternos.me",
     "port": 64593,
     "version": "26",
     "try-creative": false
