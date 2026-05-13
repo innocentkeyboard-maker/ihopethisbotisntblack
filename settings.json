@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "ihopethisbotisntblack",
+    "password": "Roadrunner",
     "type": "offline"
   },
   "server": {
     "ip": "innocentkeyboar-GRbf.aternos.me",
     "port": 64593,
-    "version": "1.21.4",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
