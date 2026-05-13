@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "ihopethisbotisntblack",
-    "password": "Roadrunner",
+    "password": "chalol7",
     "type": "offline"
   },
   "server": {
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 41,
+    "y": 120,
+    "z": 37
   },
   "utils": {
     "auto-auth": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
